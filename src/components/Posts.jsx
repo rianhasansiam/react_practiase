@@ -32,7 +32,7 @@ const Posts = ({post,handleBookMarks,handelRead}) => {
        <div>
         <h1 className='font-extrabold text-4xl'>{title}</h1>
         <span className='block text-gray-500 py-4'>{hashtags}</span>
-       <button onClick={()=>handelRead({reading_time})}  className='font-semibold underline text-blue-500 py-3 block'>Mark as read</button>
+       <button onClick={()=>handelRead({reading_time},title)}  className='font-semibold underline text-blue-500 py-3 block'>Mark as read</button>
         
        </div>
 

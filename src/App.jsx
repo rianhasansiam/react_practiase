@@ -11,14 +11,18 @@ const handleBookMarks = (tittle) => {
   
     const newBookMarksAdd = [...bookmarkAdd, tittle];
     setBookmarkAdd(newBookMarksAdd);
+
   };
 
 
 
-  const handelRead = ({reading_time}) => {
-    console.log(reading_time)
+  const handelRead = ({reading_time},title) => {
+    
     const newTime = time + reading_time;
     setTime(newTime);
+    const remainingBookMarks=bookmarkAdd.filter(onebookmarkt => onebookmarkt != title)
+    setBookmarkAdd(remainingBookMarks)
+ 
   };
 
   return (
