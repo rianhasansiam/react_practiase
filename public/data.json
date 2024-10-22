@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Mindful Living",
+      "cover_image": "https://i.ibb.co.com/PjJ7mdd/2.png",
+      "posted_date": "2024-10-10",
+      "author": "Jane Doe",
+      "reading_time": 7,
+      "hashtags": ["#mindfulness ", "#wellness ", "#selfcare "]
+    },
+    {
+      "id": 2,
+      "title": "Exploring the Wonders of the Ocean",
+      "cover_image": "https://i.ibb.co.com/Rv13pxx/4.jpg",
+      "posted_date": "2024-09-20",
+      "author": "John Smith",
+      "reading_time": 5,
+      "hashtags": ["#ocean ", "#marineLife ", "#exploration "]
+    },
+    {
+      "id": 3,
+      "title": "Tech Innovations in 2024",
+      "cover_image": "https://i.ibb.co.com/wWxz0Fc/3.png",
+      "posted_date": "2024-08-15",
+      "author": "Alex Johnson",
+      "reading_time": 10,
+      "hashtags": ["#technology ", "#innovation ", "#future "]
+    },
+    {
+      "id": 4,
+      "title": "A Guide to Sustainable Living",
+      "cover_image": "https://i.ibb.co.com/PjJ7mdd/2.png",
+      "posted_date": "2024-07-30",
+      "author": "Emily Clark",
+      "reading_time": 8,
+      "hashtags": ["#sustainability ", "#greenLiving ", "#ecoFriendly "]
+    },
+    {
+      "id": 5,
+      "title": "Top 10 Travel Destinations for 2024",
+      "cover_image": "https://i.ibb.co.com/Rv13pxx/4.jpg",
+      "posted_date": "2024-06-25",
+      "author": "Michael Lee",
+      "reading_time": 6,
+      "hashtags": ["#travel ", "#adventure ", "#destinations "]
+    },
+    {
+      "id": 6,
+      "title": "Healthy Eating: Recipes and Tips",
+      "cover_image": "https://i.ibb.co.com/wWxz0Fc/3.png",
+      "posted_date": "2024-05-18",
+      "author": "Sarah White",
+      "reading_time": 9,
+      "hashtags": ["#healthyEating ", "#nutrition ", "#recipes "]
+    },
+    {
+      "id": 7,
+      "title": "Fitness Tips for Beginners",
+      "cover_image": "https://i.ibb.co.com/PjJ7mdd/2.png",
+      "posted_date": "2024-04-12",
+      "author": "David Green",
+      "reading_time": 4,
+      "hashtags": ["#fitness ", "#workout ", "#health "]
+    },
+    {
+      "id": 8,
+      "title": "Mastering the Art of Public Speaking",
+      "cover_image": "https://i.ibb.co.com/Rv13pxx/4.jpg",
+      "posted_date": "2024-03-09",
+      "author": "Laura Davis",
+      "reading_time": 12,
+      "hashtags": ["#publicSpeaking ", "#communication ", "#leadership "]
+    },
+    {
+      "id": 9,
+      "title": "The Future of Electric Vehicles",
+      "cover_image": "https://i.ibb.co.com/wWxz0Fc/3.png",
+      "posted_date": "2024-02-20",
+      "author": "Chris Brown",
+      "reading_time": 11,
+      "hashtags": ["#EV ", "#technology ", "#sustainability "]
+    },
+    {
+      "id": 10,
+      "title": "How to Build Financial Freedom",
+      "cover_image": "https://i.ibb.co.com/PjJ7mdd/2.png",
+      "posted_date": "2024-01-15",
+      "author": "Rebecca Wilson",
+      "reading_time": 6,
+      "hashtags": ["#finance ", "#investment ", "#wealth "]
+    }
+  ]
+  
+
+
+
+
+
+
+
+
+
+
+
